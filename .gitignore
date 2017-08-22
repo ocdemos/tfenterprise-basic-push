@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Terraform template
+# Compiled files
+*.tfstate
+*.tfstate.backup
+
+# Module directory
+.terraform/
+
+# IntelliJ directories and file
+.idea/
+*.ipr
+*.iml
